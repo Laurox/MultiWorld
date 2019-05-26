@@ -1,0 +1,12 @@
+main: de.laurox.multiworld.MultiWorl
+name: MutiWorld
+prefix: MW
+author: Laurox
+version: 0.1
+api-version: 1.14
+
+commands:
+
+permissions:
+
+

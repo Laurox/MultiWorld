@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PEX-1.23.4">
+    <CLASSES>
+      <root url="jar://C:/local APIs/PEX-1.23.4.jar!/" />
+      <root url="jar://C:/local APIs/Spigot-1.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/local APIs/Spigot-1.14.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
